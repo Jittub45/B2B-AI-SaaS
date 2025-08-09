@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shadcn/ui monorepo template
 
 This template is for creating a monorepo with shadcn/ui.
@@ -29,3 +30,7 @@ To use the components in your app, import them from the `ui` package.
 ```tsx
 import { Button } from "@workspace/ui/components/button"
 ```
+=======
+# B2B-AI-SaaS
+Build and Deploy a B2B SaaS AI Support Platform | Next.js 15, React, Convex, Turborepo, Vapi, AWS
+>>>>>>> ba950b147c421f57b09838a9cd65e64cb746ff6d
