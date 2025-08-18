@@ -1,0 +1,11 @@
+05: Error Tracking
+    - Create an error scenario
+    - Track error in Convex dashboard
+    - Integrate Sentry
+        - Connect Convex
+    
+    - GitHub
+        -Commit changes
+        -Push changes
+        -Review and merge PR
+
