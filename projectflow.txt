@@ -9,3 +9,17 @@
         -Push changes
         -Review and merge PR
 
+06: AI Voice Assistant
+    - Create a Vapi account
+    - Setup customer support agent
+        -Add knowledge base
+        -Add tools
+
+    - Test agent from dashboard
+    - Test agent from client SDK
+    - Explain Vapi's API and our multi-tenant needs
+
+    - GitHub
+        -Commit changes
+        -Push changes
+        -Review and merge PR
