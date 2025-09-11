@@ -23,3 +23,16 @@
         -Commit changes
         -Push changes
         -Review and merge PR
+
+07: Dashboard Layout
+    - Add Shadcn/ui components
+
+    - Create a Dashboard Layout
+        -Create a Sidebar
+        -Create Sidebar groups
+        -Add UserButton and OrgSwitcher
+
+    -GitHub
+        -Commit changes
+        -Push changes
+        -Review and merge PR 
